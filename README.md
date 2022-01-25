@@ -28,8 +28,8 @@ p_a_apprentices<br>
 p_a_weapons<br>
 p_a_des<br>
 <br>
-Paste this link into the script src tag.<br>
-https://cdn.jsdelivr.net/gh/oli-fire/Star-Wars-Databank@LATEST VERSION/characters.js<br>
+Paste this script int your HTML File<br>
+<script src = "https://cdn.jsdelivr.net/gh/oli-fire/Star-Wars-Databank@v1.0.0/characters.js"></script><br>
 <br>
 =========================================<br>
 <br>
