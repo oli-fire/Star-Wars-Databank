@@ -42,6 +42,7 @@ How to fix this : Make sure you paste the script after the body tag.<br>
 <br>
 HMTL Code Exmple
 
+<!--
 <html>
 <head>
   <title>Star Wars Databank</title>
@@ -83,5 +84,4 @@ HMTL Code Exmple
 </body>
   <script src = "https://cdn.jsdelivr.net/gh/oli-fire/Star-Wars-Databank@v1.0.0/characters.js"></script>
 </html>
-
-
+-->
