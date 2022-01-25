@@ -42,46 +42,4 @@ How to fix this : Make sure you paste the script after the body tag.<br>
 <br>
 HMTL Code Exmple
 
-<!--
-<html>
-<head>
-  <title>Star Wars Databank</title>
-</head>
-<body>
-  <img id = "p_a_img"></img>
-  <br>
-  <span><strong>Name: </strong></span><span id="p_a_name">.</span>
-  <br>
-  <span><strong>Homeworld: </strong></span><span id="p_a_homeworld">.</span>
-  <br>
-  <span><strong>Born: </strong></span><span id="p_a_born">.</span>
-  <br>
-  <span><strong>Died: </strong></span><span id="p_a_died">.</span>
-  <br>
-  <span><strong>Species: </strong></span><span id="p_a_species">.</span>
-  <br>
-  <span><strong>Gender: </strong></span><span id="p_a_gender">.</span>
-  <br>
-  <span><strong>Height: </strong></span><span id="p_a_height">.</span>
-  <br>
-  <span><strong>Mass: </strong></span><span id="p_a_mass">.</span>
-  <br>
-  <span><strong>Hair color: </strong></span><span id="p_a_haircolor">.</span>
-  <br>
-  <span><strong>Eye color: </strong></span><span id="p_a_eyecolor">.</span>
-  <br>
-  <span><strong>Skin color: </strong></span><span id="p_a_skincolor">.</span>
-  <br>
-  <span><strong>Cybernetics: </strong></span><span id="p_a_cybernetics">.</span>
-  <br>
-  <span><strong>Affiliations: </strong></span><span id="p_a_affiliations">.</span>
-  <br>
-  <span><strong>Apprentices: </strong></span><span id="p_a_apprentices">.</span>
-  <br>
-  <span><strong>Weapons: </strong></span><span id="p_a_weapons">.</span>
-  <br>
-  <span><strong>Description: </strong></span><span id="p_a_des">.	</span>
-</body>
-  <script src = "https://cdn.jsdelivr.net/gh/oli-fire/Star-Wars-Databank@v1.0.0/characters.js"></script>
-</html>
--->
+https://codepen.io/olifire/pen/podzKGE?editors=1000
