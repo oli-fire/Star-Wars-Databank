@@ -23,7 +23,7 @@ a : {
 }
 
 // Luke Skywalker
-document.getElementById("p_a_img").src = p.a.img;
+document.getElementById("p_a_img").src = p.a.image;
 document.getElementById("p_a_name").innerHTML = p.a.name;
 document.getElementById("p_a_homeworld").innerHTML = p.a.homeworld;
 document.getElementById("p_a_born").innerHTML = p.a.born;
