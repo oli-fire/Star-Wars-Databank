@@ -1,7 +1,7 @@
 const p = {
 // Luke Skywwalker
 a : {
-  image : 'https://www.myneobuxportal.com/wp-content/uploads/2019/03/3-7.jpg',
+  image : "https://www.myneobuxportal.com/wp-content/uploads/2019/03/3-7.jpg",
   name : "Luke Skywalker",
   homeworld : 'Tatooine',
   born : "19 BBY (2 days after Empire Day)",
