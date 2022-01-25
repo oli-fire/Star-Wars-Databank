@@ -29,11 +29,6 @@ p_a_des<br>
 Paste this script into your HTML File<br>
 <script src = "https://cdn.jsdelivr.net/gh/oli-fire/Star-Wars-Databank@main/characters.js"></script><br>
 <br>
-Paste this script into your JS File<br>
-<br>
-Get Image: document.getElementById("p_a_img").src = p.a.image;<br>
-Get Name: document.getElementById("p_a_name").innerHTML = p.a.name;<br>
-<br>
 =========================================<br>
 <br>
 Some Errors You Might Encounter.<br>
