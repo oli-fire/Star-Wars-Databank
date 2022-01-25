@@ -1,7 +1,5 @@
 What This Repo Does.<br>
 Its a library of Star Wars Characters and Vehicles for any nerds out there.<br>
-Paste the script into any html file and boom your of.<br>
-Make sure to read the next section.<br>
 =========================================<br>
 <br>
 How It Works.<br>
