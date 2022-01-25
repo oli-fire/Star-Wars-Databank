@@ -30,10 +30,7 @@ p_a_des<br>
 <br>
 Paste this script into your HTML File<br>
 <script src = "https://cdn.jsdelivr.net/gh/oli-fire/Star-Wars-Databank@main/characters.js"></script><br>
-
-Paste this into your js file as well.<br
-For the Image : document.getElementById("p_a_img").src = p.a.image;
-For the Rest of the Attributes : document.getElementById("p_a_name").innerHTML = p.a.name;
+<script src = "https://cdn.jsdelivr.net/gh/oli-fire/Star-Wars-Databank@main/elements.js"></script><br>
 <br>
 =========================================<br>
 <br>
