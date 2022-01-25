@@ -1,17 +1,39 @@
-This repo . See how to contribute to this repo.
-=========================================
-
-How It Works.
-
-Basic HTML File
-
-
-
-Paste this code into any HTML File.
-<script src = "https://cdn.jsdelivr.net/gh/oli-fire/Star-Wars-Databank/characters.js"></script>
-
-
-Some Errors You Might Encounter.
-
-1. Uncaught TypeError: Cannot set properties of null (setting 'innerHTML') at characters.js:26:47
-How to fix this : Make sure you paste the script after the body tag.
+What This Repo Does.<br>
+<br>
+<br>
+<br>
+=========================================<br>
+<br>
+How It Works.<br>
+<br>
+Use p_a_name as the id of the paragraph/heading/span that you want the character's name to appear on. <br>
+Explanation : p_a_name (what type you want to get _ what character you want to get _ what attribute you want to get)
+<br>
+Example of the Attributes of Luke Skywalker:<br>
+p_a_img<br>
+p_a_name<br>
+p_a_homeworld<br>
+p_a_born<br>
+p_a_died<br>
+p_a_species<br>
+p_a_gender<br>
+p_a_height<br>
+p_a_mass<br>
+p_a_haircolor<br>
+p_a_eyecolor<br>
+p_a_skincolor<br>
+p_a_cybernetics<br>
+p_a_affiliations<br>
+p_a_apprentices<br>
+p_a_weapons<br>
+p_a_des<br>
+<br>
+Paste this link into the script src tag.<br>
+https://cdn.jsdelivr.net/gh/oli-fire/Star-Wars-Databank@LATEST VERSION/characters.js<br>
+<br>
+=========================================<br>
+<br>
+Some Errors You Might Encounter.<br>
+<br>
+1. Uncaught TypeError: Cannot set properties of null (setting 'innerHTML')<br>
+How to fix this : Make sure you paste the script after the body tag.<br>
